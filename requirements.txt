@@ -1,15 +1,15 @@
-transformers==4.24.0
+transformers==4.38.0
 huggingface_hub==0.12.1
-Flask==2.2.3
+Flask==2.2.5
 Flask-SocketIO==5.3.2
-Werkzeug==2.3.7
+Werkzeug==3.0.3
 python-socketio==5.7.2
 requests
-torch >= 1.9, < 1.13
+torch >= 1.9, < 2.5
 flask-cloudflared==0.0.10
 flask-ngrok
-eventlet==0.33.3
-dnspython==2.2.1
+eventlet==0.35.2
+dnspython==2.6.1
 lupa==1.10
 markdown
 bleach==4.1.0
