@@ -2,7 +2,7 @@ transformers==4.38.0
 huggingface_hub==0.12.1
 Flask==2.2.5
 Flask-SocketIO==5.3.2
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 python-socketio==5.7.2
 requests
 torch >= 1.9, < 2.5
